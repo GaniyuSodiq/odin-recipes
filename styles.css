@@ -2,11 +2,20 @@
     background-color: coral;
 }
 
+/* AMALA STYLING*/
 .amala-body{
     background-color: indianred;
 }
 
-.amala-body h1, h2, h3 {
+.amala-body h1, .amala-body h2, .amala-body h3 {
     color: aliceblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+/* LASAGNA STYLING*/
+.lasagna-body {
+    background-color: lightseagreen;
+}
+
+
+/* JOLLOF RICE STYLING*/
