@@ -17,5 +17,14 @@
     background-color: lightseagreen;
 }
 
+.lasagna-body h1, .lasagna-body h2, .lasagna-body h3 {
+    color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lasagna-body h1 {
+    text-align: center;
+    text-decoration: underline;
+}
 
 /* JOLLOF RICE STYLING*/
