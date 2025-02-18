@@ -1,0 +1,12 @@
+.home-body{
+    background-color: coral;
+}
+
+.amala-body{
+    background-color: indianred;
+}
+
+.amala-body h1, h2, h3 {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
