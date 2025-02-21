@@ -1,5 +1,29 @@
 .home-body{
     background-color: coral;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.home-list{
+    list-style: none;
+    
+}
+
+.home-list li{
+    display: inline-block;
+    margin-right: 10px;
+    background-color: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.home-list li:hover{
+    background-color: rgb(236, 209, 209);
+}
+
+.home-list a{
+    text-decoration: none;
 }
 
 /* AMALA STYLING*/
